@@ -10,7 +10,8 @@
 #### Confira as minhas redes sociais!
 <div> 
   <a href="https://www.linkedin.com/in/thiagodinizdasilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  <a href="https://www.instagram.com/helptakeyama/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>  
+  <a href="https://www.instagram.com/dev_thiagods/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ <a href="https://twitter.com/dev_thiagods" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>  
 </div>
 
 ### Por enquanto é isso! 
