@@ -1,11 +1,6 @@
 ## Olá! 👋
 #### Cursando 4ª periodo em Ciência da Computação no Centro Universitário Carioca
- Minha experiência profissional como dev até o momento foi dar manutenção em um sistema feito com AngularJS e Laravel, desenvolver do 0 uma SPA ultilizando React e NodeJS onde a função era facilitar a administração de uma base de dados LDAP,
- Para fins de estudo estou desenvolvendo uma API em JAVA, cujo objetivo é armazenar informações de clientes como:
-- CPF,RG
-- Informações bancárias
-- Cartão de Crédito
-- entre outros
+ Minha experiência profissional como dev até o momento foi dar manutenção em um sistema feito com AngularJS e Laravel e uma API REST feita com JAVA SPRING BOOT, desenvolver do 0 uma SPA ultilizando React e NodeJS onde a função era facilitar a administração de uma instância LDAP
     
 #### Confira as minhas redes sociais!
 <div> 
